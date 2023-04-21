@@ -2,6 +2,8 @@
 title: 'My First Post'
 date: 2023-04-19T18:45:01+08:00
 draft: false
+category: 随笔
+tags: [随笔, 测试]
 ---
 
 # 标题 1
